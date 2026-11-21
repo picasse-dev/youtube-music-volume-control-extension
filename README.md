@@ -253,7 +253,9 @@ If you find a bug or have an idea that could improve the extension, feel free to
 
 ## 📄 License
 
-No license has been assigned yet.
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
